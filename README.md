@@ -62,13 +62,13 @@ Follow these steps to get your Book Management System up and running locally:
 1. **Clone this repository** or download the code files:
 
    ```bash
-   git clone https://github.com/piyushsinghgaur1/Book-Management-System-React.git
+   git clone https://github.com/adityabindal16/Book-management-system.git
    ```
 
 2. **Navigate into the project directory**:
 
    ```bash
-   cd book-management-system
+   cd Book-management-system
    ```
 
 3. **Install dependencies**:
@@ -82,3 +82,4 @@ Follow these steps to get your Book Management System up and running locally:
    ```bash
    npm run dev
    ```
+
